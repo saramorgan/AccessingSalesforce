@@ -1,0 +1,6 @@
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\bin\Debug\AccessingSalesforce.exe.config
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\bin\Debug\AccessingSalesforce.exe
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\bin\Debug\AccessingSalesforce.pdb
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\obj\Debug\AccessingSalesforce.csprojResolveAssemblyReference.cache
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\obj\Debug\AccessingSalesforce.exe
+C:\Outformations\DeveloperForceBlog\AccessingSalesforce\AccessingSalesforce\obj\Debug\AccessingSalesforce.pdb
