@@ -17,10 +17,10 @@ namespace AccessingSalesforce
         public const String accountId = "001d000001UsLAX";
         public const String priority = "Medium";
         public const String status = "New";
-        public const String username = "saram@saramorgan.net";
-        public const String password = "Christian1lN0ERJ60X7gtfn6o4j4cLiZL7";
-        public const String consumerKey = "3MVG9rFJvQRVOvk7oMwfEw0LMpPB.sBJHWoLxSnnSRGWWg_kkBR3hYq6Ln74d4dz4ebWmVmSOs5nm4gs7k5y4";
-        public const String consumerSecret = "9133017116427653459";
+        public const String username = "user@salesforce.com";
+        public const String password = "passwordAndToken";
+        public const String consumerKey = "";
+        public const String consumerSecret = "";
 
 
         static void Main(string[] args)
